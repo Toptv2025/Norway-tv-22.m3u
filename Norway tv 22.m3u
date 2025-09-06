@@ -1,0 +1,329 @@
+#EXTM3U
+#EXTINF:0 tvg-id="NRK1.no" group-title="Norway",NRK1
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/1
+#EXTINF:0 tvg-id="NRK1.no" group-title="Norway",NRK1 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/2
+#EXTINF:0 tvg-id="ext" group-title="Norway",NRK1 Lav Internett hastighet
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/3
+#EXTINF:0 tvg-id="NRK2.no" group-title="Norway",NRK2
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/4
+#EXTINF:0 tvg-id="NRK2.no" group-title="Norway",NRK2 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/5
+#EXTINF:0 tvg-id="NRK3.no" group-title="Norway",NRK3
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/6
+#EXTINF:0 tvg-id="ext" group-title="Norway",NRK3 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/11955
+#EXTINF:0 tvg-id="tv2.hu" group-title="Norway",TV 2
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/7
+#EXTINF:0 tvg-id="TV2.dk" group-title="Norway",TV 2 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/8
+#EXTINF:0 tvg-id="tvnorge.no" group-title="Norway",TVNorge
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/9
+#EXTINF:0 tvg-id="tvnorge.no" group-title="Norway",TVNorge HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/10
+#EXTINF:0 tvg-id="tv3" group-title="Norway",TV 3
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/11
+#EXTINF:0 tvg-id="VirginMediaOne.ie" group-title="Norway",TV 3 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/12
+#EXTINF:0 tvg-id="ext" group-title="Norway",REX
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/13
+#EXTINF:0 tvg-id="MAXHD.ca" group-title="Norway",MAX HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/14
+#EXTINF:0 tvg-id="tv3plus-est" group-title="Norway",TV3+
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/15
+#EXTINF:0 tvg-id="TV3plus.dk" group-title="Norway",TV3+ HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/16
+#EXTINF:0 tvg-id="TV2Zebra.no" group-title="Norway",TV 2 Zebra
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/17
+#EXTINF:0 tvg-id="ext" group-title="Norway",TV 2 Zebra HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/30210
+#EXTINF:0 tvg-id="TV2Livsstil.no" group-title="Norway",TV 2 Livsstil
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/18
+#EXTINF:0 tvg-id="ext" group-title="Norway",TV 2 Livsstil HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/30228
+#EXTINF:0 tvg-id="FEM.no" group-title="Norway",FEM
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/19
+#EXTINF:0 tvg-id="ext" group-title="Norway",FEM HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/20
+#EXTINF:0 tvg-id="TV2Nyhetskanalen.no" group-title="Norway",TV 2 Nyhetskanalen
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/22
+#EXTINF:0 tvg-id="ext" group-title="Norway",TV 2 Nyhetskanalen HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/9912
+#EXTINF:0 tvg-id="ext" group-title="Norway",VGTV
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/23
+#EXTINF:0 tvg-id="ext" group-title="Norway",VGTV HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/12069
+#EXTINF:0 tvg-id="discov_rus" group-title="Norway",Discovery
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/12317
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Norway",Discovery HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/31726
+#EXTINF:0 tvg-id="id-extra" group-title="Norway",ID
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/50
+#EXTINF:0 tvg-id="tlc-russia" group-title="Norway",TLC
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/31
+#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Norway",TLC HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/31676
+#EXTINF:0 tvg-id="natgeo" group-title="Norway",Nat Geo
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/32
+#EXTINF:0 tvg-id="natgeo_hd" group-title="Norway",Nat Geo HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/33
+#EXTINF:0 tvg-id="Vox.de" group-title="Norway",VOX
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/34
+#EXTINF:0 tvg-id="Vox.de" group-title="Norway",VOX HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/35
+#EXTINF:0 tvg-id="ext" group-title="Norway",BBC Nordic
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/36
+#EXTINF:0 tvg-id="ext" group-title="Norway",BBC Nordic HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/9914
+#EXTINF:0 tvg-id="viasat-explore" group-title="Norway",Viasat Explore HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/37
+#EXTINF:0 tvg-id="history" group-title="Norway",Viasat History HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/38
+#EXTINF:0 tvg-id="nature-history" group-title="Norway",Viasat Nature HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/39
+#EXTINF:0 tvg-id="ext" group-title="Norway",H&C
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/40
+#EXTINF:0 tvg-id="ext" group-title="Norway",Rikstoto Direkte HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/206
+#EXTINF:0 tvg-id="ext" group-title="Norway",Rikstoto 2 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/32831
+#EXTINF:0 tvg-id="ext" group-title="Norway",Rikstoto 3 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/32832
+#EXTINF:0 tvg-id="ext" group-title="Norway",V sport 1
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/88
+#EXTINF:0 tvg-id="ext" group-title="Norway",V sport 1 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/89
+#EXTINF:0 tvg-id="ext" group-title="Norway",V sport 1 HD | raw
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/9922
+#EXTINF:0 tvg-id="ext" group-title="Norway",V sport 2
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/90
+#EXTINF:0 tvg-id="ext" group-title="Norway",V sport 2 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/91
+#EXTINF:0 tvg-id="ext" group-title="Norway",V sport 2 HD | raw
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/9923
+#EXTINF:0 tvg-id="ext" group-title="Norway",V sport 3
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/92
+#EXTINF:0 tvg-id="ext" group-title="Norway",V sport 3 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/93
+#EXTINF:0 tvg-id="ext" group-title="Norway",V sport 3 HD | raw
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/9924
+#EXTINF:0 tvg-id="ext" group-title="Norway",V Sport+
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/86
+#EXTINF:0 tvg-id="ext" group-title="Norway",V sport+ HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/87
+#EXTINF:0 tvg-id="ext" group-title="Norway",V sport+ HD | raw
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/9921
+#EXTINF:0 tvg-id="ext" group-title="Norway",V sport golf
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/63427
+#EXTINF:0 tvg-id="ext" group-title="Norway",V sport golf HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/63426
+#EXTINF:0 tvg-id="ext" group-title="Norway",V sport ultra HD (N)
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/41907
+#EXTINF:0 tvg-id="ext" group-title="Norway",TV 2 Sport 1
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/536
+#EXTINF:0 tvg-id="ext" group-title="Norway",TV 2 Sport 1 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/64
+#EXTINF:0 tvg-id="ext" group-title="Norway",TV 2 Sport 1 HD [raw]
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/4370
+#EXTINF:0 tvg-id="ext" group-title="Norway",TV 2 Sport 2 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/65
+#EXTINF:0 tvg-id="ext" group-title="Norway",TV 2 Sport 2 HD [raw]
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/12201
+#EXTINF:0 tvg-id="ext" group-title="Norway",TV 2 Sport Premium HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/94
+#EXTINF:0 tvg-id="ext" group-title="Norway",TV 2 Sport Premium HD [raw]
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/4371
+#EXTINF:0 tvg-id="ext" group-title="Norway",TV 2 Sport Premium 2 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/95
+#EXTINF:0 tvg-id="ext" group-title="Norway",TV 2 Sport Premium 2 HD [raw]
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/12312
+#EXTINF:0 tvg-id="EurosportNorge.no" group-title="Norway",Eurosport Norge
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/66
+#EXTINF:0 tvg-id="Eurosport.no" group-title="Norway",Eurosport Norge HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/244
+#EXTINF:0 tvg-id="ext" group-title="Norway",Eurosport Norge HD [raw]
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/9920
+#EXTINF:0 tvg-id="ext" group-title="Norway",Eurosport 1 HD [raw]
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/9919
+#EXTINF:0 tvg-id="ext" group-title="Norway",MTV Aitio
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/121
+#EXTINF:0 tvg-id="ext" group-title="Norway",MTV Aitio HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/9915
+#EXTINF:0 tvg-id="ext" group-title="Norway",MTV Viidhe
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/122
+#EXTINF:0 tvg-id="ext" group-title="Norway",MTV Viidhe HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/9916
+#EXTINF:0 tvg-id="ext" group-title="Norway",TV4 Hits
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/123
+#EXTINF:0 tvg-id="ext" group-title="Norway",TV4 Hits HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/9917
+#EXTINF:0 tvg-id="ext" group-title="Norway",TV4 Stars
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/124
+#EXTINF:0 tvg-id="ext" group-title="Norway",TV4 Stars HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/9918
+#EXTINF:0 tvg-id="ext" group-title="Norway",V film premiere HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/127
+#EXTINF:0 tvg-id="ext" group-title="Norway",V Film Action HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/129
+#EXTINF:0 tvg-id="ext" group-title="Norway",V Film Hits HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/131
+#EXTINF:0 tvg-id="ext" group-title="Norway",V Film Family
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/132
+#EXTINF:0 tvg-id="ext" group-title="Norway",V series HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/133
+#EXTINF:0 tvg-id="ext" group-title="Norway",MOTORVISION TV HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/82
+#EXTINF:0 tvg-id="ext" group-title="Norway",Viaplay Extra 1 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/35253
+#EXTINF:0 tvg-id="ext" group-title="Norway",Viaplay Extra 2 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/35354
+#EXTINF:0 tvg-id="ext" group-title="Norway",TV2 Play 2
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/66564
+#EXTINF:0 tvg-id="ext" group-title="Norway",TV2 Play 3
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/66565
+#EXTINF:0 tvg-id="ext" group-title="Norway",TV2 Play 4
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/66566
+#EXTINF:0 tvg-id="ext" group-title="Norway",TV2 Play 5
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/66567
+#EXTINF:0 tvg-id="ext" group-title="Norway",TV2 Play 6
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/66568
+#EXTINF:0 tvg-id="NRKTegnsprak.no" group-title="Norway",NRK Tegnspråk
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/41895
+#EXTINF:0 tvg-id="ext" group-title="Norway",NRK1 Innlandet HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/41896
+#EXTINF:0 tvg-id="ext" group-title="Norway",NRK1 Midtnytt HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/41897
+#EXTINF:0 tvg-id="ext" group-title="Norway",NRK1 Møre og Romsdal HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/41898
+#EXTINF:0 tvg-id="ext" group-title="Norway",NRK1 Nordland HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/41899
+#EXTINF:0 tvg-id="ext" group-title="Norway",NRK1 Nordnytt HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/41900
+#EXTINF:0 tvg-id="ext" group-title="Norway",NRK1 Rogaland HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/41901
+#EXTINF:0 tvg-id="ext" group-title="Norway",NRK1 Sørlandet HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/41902
+#EXTINF:0 tvg-id="ext" group-title="Norway",NRK1 Vestfold og Telemark HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/41903
+#EXTINF:0 tvg-id="ext" group-title="Norway",NRK1 Vestlandsrevyen HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/41904
+#EXTINF:0 tvg-id="ext" group-title="Norway",V sport golf HD | raw
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/112441
+#EXTINF:0 tvg-id="cnbc" group-title="Norway",CNBC Europe
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/312
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="Norway",BBC News HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/423
+#EXTINF:0 tvg-id="Skynews.gr" group-title="Norway",Sky News
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/311
+#EXTINF:0 tvg-id="ext" group-title="Norway",Fashion TV Paris L'Original
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/112445
+#EXTINF:0 tvg-id="fashion" group-title="Norway",Fashion TV HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/112446
+#EXTINF:0 tvg-id="ext" group-title="Norway",V sport live 1 | raw
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/112593
+#EXTINF:0 tvg-id="ext" group-title="Norway",V sport live 2 | raw
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/112594
+#EXTINF:0 tvg-id="ext" group-title="Norway",V sport live 3 | raw
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/112595
+#EXTINF:0 tvg-id="ext" group-title="Norway",V sport live 4 | raw
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/112596
+#EXTINF:0 tvg-id="ext" group-title="Norway",V sport live 5 | raw
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/112597
+#EXTINF:0 tvg-id="ext" group-title="Norway",V Sport Golf HD Norwegian
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/113332
+#EXTINF:0 tvg-id="nick-jr" group-title="Norway",nick Jr
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/113347
+
+#EXTINF:0 tvg-id="TV3plus.dk" group-title="Norway Sport",TV3+ HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/16
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",Rikstoto Direkte HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/206
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",Rikstoto 2 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/32831
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",Rikstoto 3 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/32832
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",V sport 1
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/88
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",V sport 1 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/89
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",V sport 1 HD | raw
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/9922
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",V sport 2
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/90
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",V sport 2 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/91
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",V sport 2 HD | raw
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/9923
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",V sport 3
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/92
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",V sport 3 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/93
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",V sport 3 HD | raw
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/9924
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",V Sport+
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/86
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",V sport+ HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/87
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",V sport+ HD | raw
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/9921
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",V sport golf
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/63427
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",V sport golf HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/63426
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",V sport ultra HD (N)
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/41907
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",TV 2 Sport 1
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/536
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",TV 2 Sport 1 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/64
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",TV 2 Sport 1 HD [raw]
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/4370
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",TV 2 Sport 2 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/65
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",TV 2 Sport 2 HD [raw]
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/12201
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",TV 2 Sport Premium HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/94
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",TV 2 Sport Premium HD [raw]
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/4371
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",TV 2 Sport Premium 2 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/95
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",TV 2 Sport Premium 2 HD [raw]
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/12312
+#EXTINF:0 tvg-id="EurosportNorge.no" group-title="Norway Sport",Eurosport Norge
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/66
+#EXTINF:0 tvg-id="Eurosport.no" group-title="Norway Sport",Eurosport Norge HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/244
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",Eurosport Norge HD [raw]
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/9920
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",Eurosport 1 HD [raw]
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/9919
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",MOTORVISION TV HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/82
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",Viaplay Extra 1 HD
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/35253
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",TV2 Play 1
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/66563
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",TV2 Play 2
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/66564
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",TV2 Play 3
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/66565
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",TV2 Play 4
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/66566
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",TV2 Play 5
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/66567
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",V sport golf HD | raw
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/112441
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",V sport live 1 | raw
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/112593
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",V sport live 2 | raw
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/112594
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",V sport live 3 | raw
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/112595
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",V sport live 4 | raw
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/112596
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",V sport live 5 | raw
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/112597
+#EXTINF:0 tvg-id="ext" group-title="Norway Sport",V Sport Golf HD Norwegian
+http://fomo.re:80/3SWxAHL2sQQCPWZF/9W3inJ6jgJL6Wxx9/113332
+
